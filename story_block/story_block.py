@@ -1,7 +1,5 @@
-import uuid
 import datetime
 import hashlib as hasher
-import time
 
 
 class StoryBlock:
